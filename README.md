@@ -3,9 +3,9 @@
 Using a Ethereum compatible blockchain we are tasked with building a smart contract that will automate financial processes. We are to create a joint savings account.
 
 # Technologies
-The program is written using Remix IDE, using solidity programing launguage. 
+The program is written using Remix IDE, using Solidity programing launguage. 
 
-solidity ^0.5.0
+Solidity ^0.5.0
 
 # Usage
 
