@@ -13,7 +13,7 @@ Contract successfully compiled:
 
 ![successful_compilation](https://user-images.githubusercontent.com/95830866/167331843-14462b97-69d7-4bba-a91a-fe97ddcc6a10.PNG)
 
-Setup joint account addresses:
+Deploy contract and setup joint account addresses:
 
 ![accounts_set_up](https://user-images.githubusercontent.com/95830866/167331913-195765cb-467d-4885-b7e0-0aa0da570bb3.PNG)
 
